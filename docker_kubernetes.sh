@@ -1,5 +1,5 @@
 ###################k8s#########################################################
-## kubernetes installation on ubuntu 16.04 ( kubeadm - single master multi nodes )
+## kubernetes installation on ubuntu  ( kubeadm - single master multi nodes )
 
 Make sure docker installed in master and nodes, make sure master has 2 cpu's 
 

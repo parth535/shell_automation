@@ -1,3 +1,4 @@
+###################### nexus #######################
 apt-get update -y
 
 echo "Install Java"
